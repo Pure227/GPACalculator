@@ -1,0 +1,17 @@
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.exe
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.deps.json
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.runtimeconfig.json
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.dll
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\bin\Debug\net6.0-windows\GPACalculator.pdb
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.AssemblyReference.cache
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.Form1.resources
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.GenerateResource.cache
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.AssemblyInfoInputs.cache
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.AssemblyInfo.cs
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.dll
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\refint\GPACalculator.dll
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.pdb
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\GPACalculator.genruntimeconfig.cache
+C:\Users\Arun\Documents\GitHub\GPACalculator\GPACalculator\GPACalculator\obj\Debug\net6.0-windows\ref\GPACalculator.dll
